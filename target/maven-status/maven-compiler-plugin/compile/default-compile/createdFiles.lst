@@ -1,0 +1,8 @@
+com\mapping\AppPostStudent.class
+com\mapping\AppDeleteById.class
+com\mapping\Entity\Student.class
+com\mapping\helper\HibernateUtility.class
+com\mapping\AppGetAllData.class
+com\mapping\Entity\Documents.class
+com\mapping\AppGetStudentById.class
+com\mapping\AppUpdateStudent.class
