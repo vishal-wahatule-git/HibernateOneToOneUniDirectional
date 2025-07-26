@@ -11,7 +11,8 @@ public class Documents {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int docId; //101 -PK
 	
-	private long aadharNo; //1234
+	//1234
+	private long aadharNo; 
 	
 	private String panNo;//accb123
 
