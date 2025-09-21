@@ -7,6 +7,8 @@ import org.hibernate.Transaction;
 import com.mapping.Entity.Student;
 import com.mapping.helper.HibernateUtility;
 
+
+// Delete by Id 
 public class AppDeleteById {
 	public static void main(String[] args) {
 		SessionFactory factory = HibernateUtility.getSessionFactory();
