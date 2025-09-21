@@ -11,7 +11,7 @@ import com.mapping.Entity.Student;
 import com.mapping.helper.HibernateUtility;
 
 public class AppGetAllData {
-
+//
 	public static void main(String[] args) {
 		SessionFactory factory = HibernateUtility.getSessionFactory();
 		Session session = factory.openSession();
