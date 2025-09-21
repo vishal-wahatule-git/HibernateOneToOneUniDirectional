@@ -18,7 +18,7 @@ public class Student {
 	private String fName; //Riya
 	
 	private String lName;
-	
+	//maping
 	@OneToOne(cascade = CascadeType.ALL)
 	private Documents documents;
 
