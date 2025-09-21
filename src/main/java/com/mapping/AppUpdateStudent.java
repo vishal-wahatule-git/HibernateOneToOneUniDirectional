@@ -6,7 +6,7 @@ import org.hibernate.Transaction;
 
 import com.mapping.Entity.Student;
 import com.mapping.helper.HibernateUtility;
-
+////
 public class AppUpdateStudent {
 
 	public static void main(String[] args) {
