@@ -7,7 +7,7 @@ import org.hibernate.Transaction;
 import com.mapping.Entity.Documents;
 import com.mapping.Entity.Student;
 import com.mapping.helper.HibernateUtility;
-
+// Get By ID 
 public class AppGetStudentById {
 
 	public static void main(String[] args) {
