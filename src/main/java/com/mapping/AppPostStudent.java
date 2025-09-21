@@ -9,10 +9,7 @@ import com.mapping.Entity.Student;
 import com.mapping.helper.HibernateUtility;
 
 
-/**
- * Hello world!
- *
- */
+
 public class AppPostStudent 
 {
     public static void main( String[] args )
